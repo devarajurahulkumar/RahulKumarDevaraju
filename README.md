@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Kubernetes, GCP, Azure**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS,Terraform**
 
 - 👯 I’m looking to collaborate on **DevOps, Cloud**
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkumar24&show_icons=true&locale=en&layout=compact" alt="rahulkumar24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumar24&show_icons=true&locale=en" alt="rahulkumar24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarajurahulkumar&show_icons=true&locale=en" alt="devarajurahulkumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar24&" alt="rahulkumar24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar24&" alt="devarajurahulkumar" /></p>
