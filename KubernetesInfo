@@ -1,0 +1,11 @@
+Remember, Kubernetes Pods are ephemeral.
+
+They can die and go away at any time.
+
+That’s why you never point any type of endpoint to them.
+
+Instead, you use a Service.
+
+Services sit in front of Pods, so regardless of if a Pod dies or not, end users hit the Service, which results in the traffic hitting any of the available Pods.
+
+Services are a reliable network endpoint.
